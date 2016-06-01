@@ -1,0 +1,6 @@
+c:\users\wayii\documents\visual studio 2015\Projects\ListHashSet\ListHashSet\bin\Debug\ListHashSet.exe.config
+c:\users\wayii\documents\visual studio 2015\Projects\ListHashSet\ListHashSet\bin\Debug\ListHashSet.exe
+c:\users\wayii\documents\visual studio 2015\Projects\ListHashSet\ListHashSet\bin\Debug\ListHashSet.pdb
+c:\users\wayii\documents\visual studio 2015\Projects\ListHashSet\ListHashSet\obj\Debug\ListHashSet.csprojResolveAssemblyReference.cache
+c:\users\wayii\documents\visual studio 2015\Projects\ListHashSet\ListHashSet\obj\Debug\ListHashSet.exe
+c:\users\wayii\documents\visual studio 2015\Projects\ListHashSet\ListHashSet\obj\Debug\ListHashSet.pdb
